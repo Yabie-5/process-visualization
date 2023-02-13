@@ -1,1 +1,11 @@
-100knock-process-visualization/
+100knock-process-visualization/**/*.csv
+100knock-process-visualization/**/*.txt
+100knock-process-visualization/**/*.xlsx
+100knock-process-visualization/**/*.jpg
+100knock-process-visualization/**/*.mp3
+100knock-process-visualization/**/*.json
+100knock-process-visualization/**/*.mp4
+100knock-process-visualization/**/*.pdf
+100knock-process-visualization/**/*.pptx
+100knock-process-visualization/**/*.docx
+100knock-process-visualization/**/*answer.ipynb
